@@ -1,0 +1,17 @@
+commit bb6c5441941f9fb3fc821b917d9e4a64563c954b
+Author: dfbarrios <dfbarrios@gmail.com>
+Date:   Fri Feb 17 12:23:46 2017 -0500
+
+    Declaring and encoding methods: greeting(),showMenu(),selectOperation()
+
+commit ae9bd1458998e171276e9344876bac59b63c4a6a
+Author: dfbarrios <dfbarrios@gmail.com>
+Date:   Fri Feb 17 10:30:12 2017 -0500
+
+    Client Class has been created
+
+commit 5d45fc52ce600be6a209e5e1b50884d559fb1182
+Author: dfbarrios <dfbarrios@gmail.com>
+Date:   Thu Feb 16 16:23:44 2017 -0500
+
+    The Product class has been created
