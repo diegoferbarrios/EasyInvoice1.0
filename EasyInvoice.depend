@@ -2,3 +2,9 @@
 1446667744 source:f:\developing\easyinvoice\main.cpp
 	<iostream>
 
+1487279950 source:f:\developing\easyinvoice\src\product.cpp
+	"Product.h"
+
+1487279950 f:\developing\easyinvoice\include\product.h
+	<iostream>
+
