@@ -12,12 +12,10 @@ class Product
         //Encapsulation, getters and setters
         void setId(string value);
         void setName(string value);
-        void setUnitys(int value);
         void setCost(float value);
 
         string getId();
         string getName();
-        int getUnitys();
         float getCost();
 
     protected:
@@ -25,7 +23,6 @@ class Product
           //Product Class Attributes
         string id;
         string name;
-        int unitys;
         float cost;
 };
 
