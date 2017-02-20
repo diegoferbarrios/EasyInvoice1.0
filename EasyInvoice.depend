@@ -1,17 +1,32 @@
 # depslib dependency file v1.0
-1487349878 source:f:\developing\easyinvoice\main.cpp
+1487548138 source:f:\developing\easyinvoice\main.cpp
 	<iostream>
 	<stdlib.h>
+	<ClientNode.h>
+	<ClientList.h>
 
-1487346126 source:f:\developing\easyinvoice\src\product.cpp
+1487352647 source:f:\developing\easyinvoice\src\product.cpp
 	"Product.h"
 
-1487346126 f:\developing\easyinvoice\include\product.h
+1487352647 f:\developing\easyinvoice\include\product.h
 	<iostream>
 
-1487345277 source:f:\developing\easyinvoice\src\client.cpp
+1487352647 source:f:\developing\easyinvoice\src\client.cpp
 	"Client.h"
 
-1487345018 f:\developing\easyinvoice\include\client.h
+1487369044 f:\developing\easyinvoice\include\client.h
+	<iostream>
+
+1487393888 source:f:\developing\easyinvoice\src\clientlist.cpp
+	"ClientList.h"
+
+1487369801 f:\developing\easyinvoice\include\clientlist.h
+	<iostream>
+	<ClientNode.h>
+
+1487372697 source:f:\developing\easyinvoice\src\clientnode.cpp
+	"ClientNode.h"
+
+1487548162 f:\developing\easyinvoice\include\clientnode.h
 	<iostream>
 

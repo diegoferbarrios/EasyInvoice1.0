@@ -21,11 +21,11 @@
 			<Add option="-Wall" />
 			<Add option="-fexceptions" />
 		</Compiler>
-		<Unit filename="include/Client.h" />
-		<Unit filename="include/Product.h" />
+		<Unit filename="include/ClientList.h" />
+		<Unit filename="include/ClientNode.h" />
 		<Unit filename="main.cpp" />
-		<Unit filename="src/Client.cpp" />
-		<Unit filename="src/Product.cpp" />
+		<Unit filename="src/ClientList.cpp" />
+		<Unit filename="src/ClientNode.cpp" />
 		<Extensions>
 			<code_completion />
 			<envvars />
