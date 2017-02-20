@@ -30,3 +30,16 @@
 1487548162 f:\developing\easyinvoice\include\clientnode.h
 	<iostream>
 
+1487552615 source:f:\developing\easyinvoice\src\productnode.cpp
+	"ProductNode.h"
+
+1487552644 f:\developing\easyinvoice\include\productnode.h
+	<iostream>
+
+1487551469 source:f:\developing\easyinvoice\src\productlist.cpp
+	"ProductList.h"
+
+1487551166 f:\developing\easyinvoice\include\productlist.h
+	<iostream>
+	<ProductNode.h>
+
